@@ -26,5 +26,10 @@ Open the decoder of this encoding.
 
 ![image](https://user-images.githubusercontent.com/60939699/160279579-003adb6e-ab98-4f68-ae23-e002f2427a17.png)
 
+Here we put all our strings inside and select the option to decode them separately.
+Among the received text we see the name of 2 files: **flag1.txt** and **myfile.txt**. We are trying to add them to the address bar by the link of the main page. File named **flag1.txt** does not exist, but after request with **myfile.txt** a page opens with the contents of the file in which the desired flag is located.
+---
+Здесь мы помещаем внутрь все наши строки и выбираем параметр раскодировать их по отдельности.
+Среди полученног текста видим название 2 файлов: **flag1.txt** и **myfile.txt**. Пробуем добавить их в адресную строку к ссылке основной страницы. Файл с названием **flag1.txt** не существует, а вот после обращения к **myfile.txt** у нас открывается страница с содержимым файла, в котором находится нужный флаг.
 
 ![image](https://user-images.githubusercontent.com/60939699/160279570-b1e19e8a-ef50-4ab8-980f-038385da2140.png)
