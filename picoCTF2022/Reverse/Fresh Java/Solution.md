@@ -1,5 +1,16 @@
+# Fresh Java
+
+The challenge is the following,
+___
+Задача заключается в следующем,
+
 ![image](https://user-images.githubusercontent.com/60939699/160281884-6dad4ce5-bb68-449d-825e-c3d5fe92e3cf.png)
 
+
+___
+Где нам дается файл на **Java** и подсказка, что мы должны импользовать декомпилятор. Ищем в интернете, открываем онлайн сервис и отдаем туда наш файл, после чего получаем следующий результат.
+
+``` lang-java
 import java.util.Scanner;
 public class KeygenMe
 {
@@ -150,3 +161,8 @@ public class KeygenMe
         System.out.println("Valid key");
     }
 }
+```
+
+
+___
+Изучив становится понятно, что здесь в коде прописаны проверки на флаг, собираем все символы с которыми производится сравнение и получаем ключ.
