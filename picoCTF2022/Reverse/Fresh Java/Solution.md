@@ -6,7 +6,7 @@ ___
 
 ![image](https://user-images.githubusercontent.com/60939699/160281884-6dad4ce5-bb68-449d-825e-c3d5fe92e3cf.png)
 
-
+Where we are given a file in **Java** and a hint that we should use a decompiler. We search the Internet, open an online service and give our file there, after which we get the following result.
 ___
 Где нам дается файл на **Java** и подсказка, что мы должны импользовать декомпилятор. Ищем в интернете, открываем онлайн сервис и отдаем туда наш файл, после чего получаем следующий результат.
 
@@ -163,6 +163,6 @@ public class KeygenMe
 }
 ```
 
-
+After studying it, it becomes clear that checks for the flag are written here in the code, we collect all the characters with which the comparison is made and get the key.
 ___
 Изучив становится понятно, что здесь в коде прописаны проверки на флаг, собираем все символы с которыми производится сравнение и получаем ключ.
